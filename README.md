@@ -24,7 +24,7 @@ All work was done using Python and scikit-learn in a Jupyter Notebook.
 - **Logistic Regression:** baseline linear classifier.  
 - **Logistic RegressionCV:** includes built-in cross-validation and automatic regularization tuning.  
 - **KNN:** non-parametric model; included for comparison.
-*(actual values shown in notebook outputs)*
+  # Results showing in main.ipynb under the code folder
 
 ## Kaggle Results
 Final submission achieved a **score of 0.24** on the Kaggle leaderboard.  
@@ -44,3 +44,5 @@ Seeing the high leaderboard scores was motivating — it’s clear that there’
 - `Output/` – Model predictions and evaluation results  
 - `requirements.txt` – Required packages  
 - `README.md` – Summary of the workflow
+
+<img width="1212" height="215" alt="image" src="https://github.com/user-attachments/assets/795c719f-c9b2-43c2-ad3b-2fd27059c37a" />
