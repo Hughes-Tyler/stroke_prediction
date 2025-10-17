@@ -24,15 +24,15 @@ All work was done using Python and scikit-learn in a Jupyter Notebook.
 - **Logistic Regression:** baseline linear classifier.  
 - **Logistic RegressionCV:** includes built-in cross-validation and automatic regularization tuning.  
 - **KNN:** non-parametric model; included for comparison.
-  # Results showing in main.ipynb under the code folder
+  # Results are shown in main.ipynb under the code folder
 
 ## Kaggle Results
 Final submission achieved a **score of 0.24** on the Kaggle leaderboard.  
 While not among the top results, it was a solid outcome given that we were limited to the techniques covered so far.
 
 ## Reflections
-This project was a good exercise in building a full ML workflow end-to-end.  
-I learned how important proper preprocessing and parameter tuning are for improving model accuracy.  
+This project taught me a lot about building a full ML workflow end-to-end.  
+I really enjoyed getting close to the data, using simple models for classification, and seeing how I compared to others in the Kaggle leaderboard. 
 Seeing the high leaderboard scores was motivating — it’s clear that there’s a lot more to explore in data cleaning, feature engineering, and ensemble methods.
 
 ---
